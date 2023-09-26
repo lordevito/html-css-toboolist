@@ -7,7 +7,8 @@
 h1{
     display: inline-block;
     vertical-align: middle;
-}    
+}
+
 body{
     font-family: 'Roboto', sans-serif;
 }
@@ -15,6 +16,7 @@ main{
     background-color: #f6f8f9;
     padding-top: 100px;
 }
+/*Button*/
 .container{
     background-color: white;
     width: 900px;
@@ -41,6 +43,8 @@ nav{
     border-color:#c4cbd0;
     border-radius: 10%;  
 }
+/*Fine Button*/
+/*Inizio Section*/
 ul{
     list-style: none;
     margin-left: 0;
@@ -114,4 +118,5 @@ h3{
     border-radius: 25%;
     padding: 5px;
 }
+/*Fine Section*/
 
