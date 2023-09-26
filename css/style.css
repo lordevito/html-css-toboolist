@@ -26,7 +26,6 @@ nav{
     border-bottom: 2px solid #c2c6c9;
     margin:auto;
     padding: 10px;
-    width: 100%;
 }
 .button1{
     background-color: #14aaf5;
@@ -49,6 +48,9 @@ ul{
 section{
     margin: 5px 0px;
 }
+.section-container{
+    padding: 30px;
+}
 .check{
     display: inline-block;
     height: 20px;
@@ -60,6 +62,17 @@ section{
     border-radius:50%;
     color: green;
 }
+.cross{
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    border: 1px solid red;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 20px;
+    border-radius:50%;
+    color: red;
+}
 h3{
     padding: 10px;
     display: inline-block;
@@ -67,14 +80,38 @@ h3{
 .curve1{
     background-color: #14aaf5;
     color: white;
-    border-radius: 20%;
+    border-radius: 25%;
     padding: 5px;
 
 }
 .curve2{
     background-color: #ab5de6;
     color: white;
-    border-radius: 20%;
+    border-radius: 25%;
+    padding: 5px;
+}
+.curve3{
+    background-color: #2cc6ab;
+    color: white;
+    border-radius: 25%;
+    padding: 5px;
+}
+.curve4{
+    background-color: #ff9b00;
+    color: white;
+    border-radius: 25%;
+    padding: 5px;
+}
+.curve5{
+    background-color: #ec4a9d;
+    color: white;
+    border-radius: 25%;
+    padding: 5px;
+}
+.curve6{
+    background-color: #a3d116;
+    color: white;
+    border-radius: 25%;
     padding: 5px;
 }
 
