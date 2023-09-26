@@ -48,6 +48,7 @@ nav{
 ul{
     list-style: none;
     margin-left: 0;
+    padding: 0;
 }
 section{
     margin: 5px 0px;
